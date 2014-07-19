@@ -1,4 +1,4 @@
-faker-cheatsheet
+faker cheatsheet
 ================
 
 a collection of fake data generators
