@@ -35,7 +35,5 @@ a collection of fake data generators
 [http://sevenwire.com](http://sevenwire.com)
 
 
-* [stympy](https://github.com/stympy)/[faker](https://github.com/stympy/faker) A library for generating fake data such as names, addresses, and phone numbers. 
-[http://faker.rubyforge.org](http://faker.rubyforge.org)
 
 
