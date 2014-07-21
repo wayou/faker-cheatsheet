@@ -34,6 +34,8 @@ a collection of fake data generators
 * [sevenwire](https://github.com/sevenwire)/[forgery](https://github.com/sevenwire/forgery) Easy and customizable generation of forged data. 
 [http://sevenwire.com](http://sevenwire.com)
 
+* [nickclaw](https://github.com/nickclaw)/[atom-lorem-ipsum](https://github.com/nickclaw/atom-lorem-ipsum) Generate lorem ipsum text in Atom.
+
 
 pull request are welcome :)
 
